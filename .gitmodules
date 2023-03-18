@@ -10,3 +10,6 @@
 [submodule "raycast-preferences"]
 	path = raycast-preferences
 	url = git@github.com:GavinMeierSonos/raycast-preferences.git
+[submodule "zsh"]
+	path = zsh
+	url = git@github.com:GavinMeierSonos/zsh.git
