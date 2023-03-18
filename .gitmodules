@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:GavinMeierSonos/nvim-config.git
+[submodule "warp"]
+	path = warp
+	url = git@github.com:GavinMeierSonos/warp.git
