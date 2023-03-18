@@ -4,3 +4,6 @@
 [submodule "warp"]
 	path = warp
 	url = git@github.com:GavinMeierSonos/warp.git
+[submodule "wallpapers"]
+	path = wallpapers
+	url = git@github.com:GavinMeierSonos/wallpapers.git
